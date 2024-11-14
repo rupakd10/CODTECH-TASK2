@@ -25,4 +25,7 @@ Key Activities :
 * Design the Layout: Sketch out how the dashboard will look, making it easy to understand.
 * Choose the Right Visuals: Pick the best way to show information (charts, graphs, etc.).
 * Build the Dashboard: Create the dashboard using tools and connect it to the data.
-  
+
+Technology used : Figma: A Collaborative Design Platform
+
+
