@@ -44,4 +44,6 @@ Key Insights
 
 ![Students App dashboard](https://github.com/user-attachments/assets/091eb1a8-5445-4d96-93c4-4b72c91d1e06)
 
+Prototype file:https://www.figma.com/design/AlkUwmFm3JmVoOC7jfwwop/Students-App-dashboard?node-id=0-1&t=adAIBFxFZEB6Mjmz-1
+
 
