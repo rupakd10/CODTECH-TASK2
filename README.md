@@ -28,4 +28,20 @@ Key Activities :
 
 Technology used : Figma: A Collaborative Design Platform
 
+Key Insights
+
+* Keep it Simple: Avoid clutter and focus on the most important information.
+
+* Make it Easy to Understand: Use clear labels and simple visuals.
+
+* Personalize the Experience: Let students choose what they want to see.
+
+* Show Progress: Use charts and graphs to track improvement.
+
+* Provide Actionable Insights: Help students understand their performance and take steps to improve.
+
+* Protect Privacy: Keep student data safe and secure.
+
+![Students App dashboard](https://github.com/user-attachments/assets/091eb1a8-5445-4d96-93c4-4b72c91d1e06)
+
 
