@@ -11,7 +11,7 @@ Duration: Oct to Nov 2024
 Mentor: Neela Santhosh 
 
 
-* Overview of the project 
+----- Overview of the project -----
 
 
 project: Student dashboard design for analytics platform
